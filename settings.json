@@ -1,0 +1,7 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left"
+} 
