@@ -3,7 +3,7 @@
     "editor.fontSize": 14,
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
     "workbench.activityBar.visible": true,
-    "workbench.sideBar.location": "left"
+    "workbench.sideBar.location": "left",
     "editor.renderWhitespace": true,
     "editor.insertSpaces": false,
     "editor.detectIndentation": false,
