@@ -3,9 +3,16 @@
     "editor.fontSize": 14,
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
     "workbench.activityBar.visible": true,
-    "workbench.sideBar.location": "left",
+    "workbench.sideBar.location": "right",
     "editor.renderWhitespace": true,
     "editor.insertSpaces": false,
     "editor.detectIndentation": false,
-	"editor.tabSize": 2
-} 
+    "editor.tabSize": 2,
+    "vsicons.projectDetection.disableDetect": true,
+    "window.menuBarVisibility": "toggle",
+    "bookmarks.useStickyBookmarks": true,
+    "bookmarks.saveBookmarksBetweenSessions": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Solarized Dark",
+    "python.linting.pylintEnabled": false
+}
