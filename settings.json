@@ -16,5 +16,14 @@
 	"materialTheme.fixIconsRunning": false,
     "editor.lineHeight": 24,
     "editor.fontLigatures": true,
-    "explorer.decorations.badges": false
+	"explorer.decorations.badges": false
+	
+	
+	"workbench.colorCustomizations": {
+	"tab.activeBorder":"#ECECEC",
+	"tab.inactiveForeground":"#ECECEC",
+	"sideBar.foreground":"#c0c0c0",
+	"sideBarTitle.foreground":"#EEEE",
+	"list.hoverForeground":"#ffffff",
+	}
 }
