@@ -16,7 +16,7 @@
 	"materialTheme.fixIconsRunning": false,
     "editor.lineHeight": 24,
     "editor.fontLigatures": true,
-	"explorer.decorations.badges": false
+	"explorer.decorations.badges": false,
 	
 	
 	"workbench.colorCustomizations": {
