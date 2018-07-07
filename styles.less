@@ -1,0 +1,38 @@
+.tab-bar .placeholder:before {
+    z-index: 1;
+    margin: 0;
+    width: 2px;
+    height: 2.5em;
+    background-color: #f9fcff;
+}
+.tab-bar .placeholder:after {
+    z-index: 0;
+    top: 1.25em;
+    margin: -4px 0 0 -3px;
+    border-radius: 0;
+    border: 4px solid #519fee;
+    transform: rotate(45deg);
+    background: transparent;
+}
+// style the background and foreground colors on the atom-text-editor-element itself
+atom-text-editor {
+  color: white;
+  background-color: #21212d;
+}
+
+atom-text-editor::shadow .invisible-character { color: #5b5a5a}
+
+
+.tab-bar {
+  .tab {
+    color: #dfdfdf;
+    color-active: ;
+
+  }
+
+}
+.pane.active {
+    .tab.active {
+        color: white;
+    }
+}
